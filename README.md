@@ -1,0 +1,2 @@
+# kri
+echo "hello world"
